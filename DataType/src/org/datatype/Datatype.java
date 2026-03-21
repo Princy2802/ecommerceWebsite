@@ -30,7 +30,7 @@ double overallPercent = 89.98775454;
 System.out.println("my overall percentis"+overallPercent);
 	
 //status
-boolean staus = false;
+boolean staus = true;
 System.out.println("staus is"+staus);
 
 	
